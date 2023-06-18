@@ -1,0 +1,34 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    background: #eeedeb;
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.ribbon {
+    text-align: center;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    position: relative;
+    padding: 10px 0;
+    top: 40px;
+    left: -80px;
+    width: 300px;
+    font-size: 25px;
+    background-color: #ea580c;
+    color: #fff;
+}
+
+.menu {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
