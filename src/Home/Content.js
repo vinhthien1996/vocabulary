@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import styles from './Home.module.css';
 import reactStringReplace from 'react-string-replace';
 import { EyeIcon, EyeSlashIcon, XMarkIcon } from '@heroicons/react/24/solid';
-import { title, data } from './Data/1';
+import { title, data } from './Data/2';
 
 function Content() {
 
